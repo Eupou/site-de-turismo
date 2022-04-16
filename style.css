@@ -300,4 +300,9 @@ footer .footer a {
         margin: auto;
         width: 100%;
     }
+
+    header .menu {
+        display: flex;
+        align-items: center;
+    }
 }
